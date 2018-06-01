@@ -1,0 +1,24 @@
+{
+  "name": "koa2-start",
+  "version": "1.0.0",
+  "description": "a koa2 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liutaochange/koa2-start.git"
+  },
+  "keywords": [
+    "koa2",
+    "node",
+    "js"
+  ],
+  "author": "liutaochange@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liutaochange/koa2-start/issues"
+  },
+  "homepage": "https://github.com/liutaochange/koa2-start#readme"
+}
